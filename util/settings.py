@@ -4,6 +4,7 @@ class Settings(BaseSettings):
     giphy_api_key: str = None
     discord_bot_token: str = None
     target_voice_room: str = None
+    manager_role_id: str = None
 
     class Config:
         env_prefix = "HANS_"
