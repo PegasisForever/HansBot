@@ -7,4 +7,4 @@ services:
       - HANS_GIPHY_API_KEY=SomeAPIKey
       - HANS_DISCORD_BOT_TOKEN=someApiToken
       - HANS_TARGET_VOICE_ROOM=Voice Room Name
-      - HANS_MANAGER_ROLE_ID=Manager rolw
+      - HANS_MANAGER_ROLE_ID=Manager Role ID
